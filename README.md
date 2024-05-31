@@ -23,7 +23,7 @@ and customers to navigate the local food delivery market effectively.
 Upon this all I have also published my first ever a conference paper in IEEE
 Title : Restaurant Feasibility Study and Behavioural based Restaurant Recommendation
 DOI : 10.1109/IITCEE59897.2024.10467783 
-link : https://ieeexplore.ieee.org/document/10467783
+Link : https://ieeexplore.ieee.org/document/10467783
 
 The data set that I have used from the kaggle
 Link : https://www.kaggle.com/datasets/shrutimehta/zomato-restaurants-data
